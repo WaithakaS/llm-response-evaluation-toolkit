@@ -214,3 +214,10 @@ This project demonstrates practical AI evaluation skills:
 ## Limitations
 
 This is an evaluation framework, not an autonomous truth engine. Factuality heuristics can produce false positives and false negatives, and LLM judges can exhibit bias or evaluator drift. Human review remains essential for ambiguous, high-risk, or evidence-sensitive cases.
+## Author
+
+**Samwel Isaboke**  
+AI Trainer | Data Analyst  
+GitHub: [@WaithakaS](https://github.com/WaithakaS)  
+LinkedIn: [Samwel Isaboke](https://www.linkedin.com/in/samwel-isaboke-1592a58a/)  
+Email: [samwelwaithakaisaboke@gmail.com](mailto:samwelwaithakaisaboke@gmail.com)
